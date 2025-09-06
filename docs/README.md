@@ -73,4 +73,4 @@ For questions about the materials, contact:
 
 ---
 
-Last updated: September 6, 2025
+Last updated: September 6, 2026
