@@ -13,10 +13,10 @@ A modern, responsive website for the GitHub User Group Kaduna workshop. This sit
 ## Workshop Details
 
 - **Date**: September 20-21, 2025
-- **Time**: 9:00 AM - 5:00 PM WAT
+- **Time**: 11:00 PM - Till MAMA CALLS
 - **Location**: Tech Hub Kaduna, Constitution Road, Kaduna, Nigeria
 - **Capacity**: 50 participants
-- **Cost**: Free
+- **Cost**: Guyz 5k & Ladies Free
 
 ## What's Covered
 
@@ -83,4 +83,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by GitHub User Group Kaduna
+Built with ❤️ by GitHub User Group Kaduna Nigeria Africa
