@@ -69,7 +69,7 @@ The website is designed to be easily customizable:
 ## Contact Information
 
 - **Email**: info@githubugkaduna.org
-- **Phone**: +234 801 234 5678
+- **Phone**: +234 801 234 9956
 - **Address**: Tech Hub Kaduna, Constitution Road, Kaduna, Nigeria
 
 ## Contributing
